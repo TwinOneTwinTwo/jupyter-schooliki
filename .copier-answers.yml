@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.4
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: lee@twinonetwintoo.com
+author_name: Lee TwinToo
+has_binder: false
+has_settings: true
+kind: frontend
+labextension_name: app
+project_short_description: An AI tool for working with Google Classroom.
+python_name: schoolikiAI
+repository: https://github.com/TwinOneTwinTwo/jupyter-schooliki.git
+test: true
+
